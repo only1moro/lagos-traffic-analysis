@@ -1,0 +1,7 @@
+pandas>=1.3
+numpy
+matplotlib
+folium
+geopandas; platform_system != 'Windows' or python_version >= '3.8'
+jupyter
+nbformat
